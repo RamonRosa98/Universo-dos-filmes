@@ -5,14 +5,18 @@ Universo dos Filmes é um projeto desenvolvido para pesquisa de filmes, onde voc
 🚀 Funcionalidades
 
 🔍 Pesquisa de filmes por nome ou gênero.
+
 📱 Design Responsivo que se adapta a diferentes dispositivos.
+
 🎥 Visualização de detalhes de filmes com links para mais informações.
 
 🛠 Tecnologias Utilizadas
 
-HTML5: Estruturação da página.
-CSS3: Estilo e design responsivo.
-JavaScript: Funcionalidade de pesquisa e interação.
+📄 HTML5: Estruturação da página.
+
+🎨 CSS3: Estilo e design responsivo.
+
+⚙️ JavaScript: Funcionalidade de pesquisa e interação.
 
 📥 Como Rodar o Projeto
 
