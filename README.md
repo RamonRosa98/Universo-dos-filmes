@@ -29,3 +29,5 @@ Abra o arquivo index.html no seu navegador para visualizar o site.
 🤝 Contribuindo
 
 Sinta-se à vontade para fazer sugestões de melhorias ou enviar pull requests. Toda contribuição é bem-vinda!
+
+🧑‍💻 Desenvolvido por Ramon.
