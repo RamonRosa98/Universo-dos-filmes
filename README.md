@@ -8,8 +8,6 @@ Universo dos Filmes é um projeto desenvolvido para pesquisa de filmes, onde voc
 
 📱 Design Responsivo que se adapta a diferentes dispositivos.
 
-🎥 Visualização de detalhes de filmes com links para mais informações.
-
 🛠 Tecnologias Utilizadas
 
 📄 HTML5: Estruturação da página.
